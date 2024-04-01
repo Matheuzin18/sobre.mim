@@ -2,7 +2,7 @@
 #corroxo {color:blueviolet;font-size:xx-large; padding-bottom: 20px}
 #corpreto {color:black; font-size:xx-large;}
 * {background-color: rgb(115, 216, 137);}
-.redessociais {text-align: center; border: solid rgb(115, 216, 137)}
+.redessociais {text-align: center; border: solid rgb(115, 216, 137);}
 .contatos {text-align: center; border: 10px solid rgb(115, 216, 137)}
 .texto1 {background-color: rgb(138, 250, 244); text-align: center; border: 10px solid rgb(138, 250, 244);}
 .sobre {background-color: rgb(138, 250, 244);font-style: italic;}
@@ -13,3 +13,4 @@
 #email {width: 255px}
 #telefone {width: 230px}
 .entrarcontato, .info, .social {font-style: italic}
+.redessociais {text-align: center;}
